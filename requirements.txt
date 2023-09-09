@@ -11,4 +11,4 @@ joblib
 statsmodels
 matplotlib
 joblib
-sklearn
+scikit-learn
